@@ -88,6 +88,8 @@
   "item.mafishmod.vr_magic": "VR魔法阵",
   "item.mafishmod.vr_getting_over_it": "VR锤",
 
+  "item.mafishmod.fish_hoe": "鱼锄",
+
 
   "enchantment.mafishmod.bad_luck_of_sea": "§c海之嫌弃",
   "enchantment.mafishmod.eight_gods_pass_sea": "§e八仙过海",
@@ -149,5 +151,8 @@
   "item.minecraft.potion.effect.antidote_potion": "酸奶",
   "item.minecraft.splash_potion.effect.antidote_potion": "酸奶（喷溅）",
   "item.minecraft.lingering_potion.effect.antidote_potion": "酸奶（滞留）",
-  "item.minecraft.tipped_arrow.effect.antidote_potion": "酸奶箭"
+  "item.minecraft.tipped_arrow.effect.antidote_potion": "酸奶箭",
+
+  "text.mafishmod.fish_hoe.first": "第一个选取点在 ",
+  "text.mafishmod.fish_hoe.second": "第二个选取点在 "
 }

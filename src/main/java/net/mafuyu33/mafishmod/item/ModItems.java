@@ -97,6 +97,7 @@ public class ModItems {
                     new FabricItemSettings().fireproof().maxCount(1)));
     public static final Item SWITCH = registerItem("switch",new SwitchItem(new FabricItemSettings().food(ModFoodComponents.SWITCH)));
 
+    public static final Item FISH_HOE_ITEM = registerItem("fish_hoe", new FishHoeItem(new FabricItemSettings()));
 
 
 

@@ -99,6 +99,8 @@
   "item.mafishmod.vr_magic": "vr_magic",
   "item.mafishmod.vr_getting_over_it": "vr_getting_over_it",
 
+  "item.mafishmod.fish_hoe": "Fish Hoe",
+
 
   "enchantment.mafishmod.bad_luck_of_sea": "bad_luck_of_sea",
   "enchantment.mafishmod.eight_gods_pass_sea": "eight_gods_pass_sea",
@@ -161,5 +163,8 @@
   "item.minecraft.potion.effect.antidote_potion": "antidote_potion",
   "item.minecraft.splash_potion.effect.antidote_potion": "Splash antidote_potion",
   "item.minecraft.lingering_potion.effect.antidote_potion": "Lingering antidote_potion",
-  "item.minecraft.tipped_arrow.effect.antidote_potion": "antidote_potion"
+  "item.minecraft.tipped_arrow.effect.antidote_potion": "antidote_potion",
+
+  "text.mafishmod.fish_hoe.first": "First position set at: ",
+  "text.mafishmod.fish_hoe.second": "Second position set at: "
 }
